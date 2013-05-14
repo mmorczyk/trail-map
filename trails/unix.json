@@ -12,6 +12,10 @@
           "publisher": "http://man7.org/tlpi/"
         },
         {
+          "title": "Read Learning the Shell",
+          "uri": "http://www.linuxcommand.org/lc3_learning_the_shell.php",
+        },
+        {
           "title": "Read about I/O redirection.",
           "uri": "http://en.wikipedia.org/wiki/Redirection_(computing)",
           "id": "821a57aacb161859742895bddaf3d2ecfda188cf"
